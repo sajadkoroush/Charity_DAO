@@ -11,7 +11,7 @@ contract Charity_final_23{
     address payable owner;
     uint256 private someval;
     address payable creator;
-    bool feeforcreator = false;
+    bool feeforcreator = true;
     bool canwithdrawowner = false;
    // uint256 private feex;
 
