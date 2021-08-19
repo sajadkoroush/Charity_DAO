@@ -7,3 +7,8 @@ People are in a queue that will be determined according to the priority time of 
 PayCharity can be used to deposit money. If the details of the individuals are registered, the contract will not automatically pay them the required amount of assistance.
 
 *** This text needs to be completed ***
+
+
+rinkbey address contract: https://rinkeby.etherscan.io/address/0x68e7bbe579bfe3340ada745efce29fab3bd79c54
+ropsten address contract: https://ropsten.etherscan.io/address/0xe00b1a6e0321a2eb4cc501d8e47ea8b6471b449d
+
