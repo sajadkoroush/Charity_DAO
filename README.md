@@ -11,4 +11,5 @@ PayCharity can be used to deposit money. If the details of the individuals are r
 
 rinkbey address contract: https://rinkeby.etherscan.io/address/0x68e7bbe579bfe3340ada745efce29fab3bd79c54
 ropsten address contract: https://ropsten.etherscan.io/address/0xe00b1a6e0321a2eb4cc501d8e47ea8b6471b449d
+binance Test address contract: https://testnet.bscscan.com/address/0x6ab266a2eda43684c83a7595c988754a3b5c41ed
 
